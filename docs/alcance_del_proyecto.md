@@ -1,7 +1,7 @@
-# Alcance del Proyecto: MedixFlow AI
+# Alcance del Proyecto: MedixAi
 
 ## Visión del Proyecto
-MedixFlow AI es una plataforma SaaS diseñada para clínicas médicas/esteticas/odontologicas que buscan automatizar la facturación, el triaje y la gestión de citas a través de WhatsApp e Inteligencia Artificial. Nuestro objetivo es reducir la carga administrativa, mejorar la experiencia del paciente mediante respuestas inmediatas y asegurar el recaudo financiero antes de la consulta.
+MedixAi es una plataforma SaaS diseñada para clínicas médicas/esteticas/odontologicas que buscan automatizar la facturación, el triaje y la gestión deg citas a través de WhatsApp e Inteligencia Artificial. Nuestro objetivo es reducir la carga administrativa, mejorar la experiencia del paciente mediante respuestas inmediatas y asegurar el recaudo financiero antes de la consulta.
 
 ## Características Clave (Key Features)
 

@@ -1,8 +1,8 @@
-# MedixFlow AI
+# MedixAi
 
 **Automatización inteligente para clínicas médicas: Triaje, Agendamiento y Facturación.**
 
-MedixFlow AI es una plataforma SaaS que permite a las clínicas médicas automatizar la interacción con sus pacientes a través de WhatsApp. Utilizando Inteligencia Artificial y una arquitectura robusta, gestionamos desde el primer contacto (triaje) hasta el cobro de la consulta, asegurando la eficiencia operativa y financiera.
+MedixAi es una plataforma SaaS que permite a las clínicas médicas automatizar la interacción con sus pacientes a través de WhatsApp. Utilizando Inteligencia Artificial y una arquitectura robusta, gestionamos desde el primer contacto (triaje) hasta el cobro de la consulta, asegurando la eficiencia operativa y financiera.
 
 ## Estado del Proyecto
 🚧 **Fase Actual: Fase 1 - Planificación y Maquetación**
